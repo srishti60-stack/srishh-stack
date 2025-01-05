@@ -1,2 +1,2 @@
 # srishh-stack
-Tis is my first repository
+Tis is my first Git repository
